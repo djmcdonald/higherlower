@@ -1,0 +1,14 @@
+{
+    "name": "higher-lower",
+    "version": "0.0.1",
+    "devDependencies": {},
+    "dependencies": {
+      "q": "1.1.2"
+    },
+    "description": "",
+    "repository": {
+        "git": "ssh://git@github.com:djmcdonald/higherlower.git"
+    },
+    "readme": ""
+}
+
